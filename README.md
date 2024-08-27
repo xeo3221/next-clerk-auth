@@ -16,3 +16,6 @@ Website hosted here -> https://next-clerk-auth-orcin.vercel.app/
 ![image](https://github.com/user-attachments/assets/fff26b52-8da8-4757-95a6-81e29c47214c)
 
 ![image](https://github.com/user-attachments/assets/f394bede-0746-43ac-b7f2-8729c8159355)
+
+![image](https://github.com/user-attachments/assets/37b357c7-8c01-4cc4-926f-45e437591e49)
+
