@@ -1,4 +1,4 @@
-import { Loader } from "lucide-react";
+import Loader from "@/components/loader";
 import React from "react";
 
 const Loading = () => {
